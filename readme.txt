@@ -1,0 +1,1 @@
+Nesse repositório estão todos os arquivos utilizados na criação desse portifólio, um projeto feito através do BitCode em conjunto com o framework Bulma.

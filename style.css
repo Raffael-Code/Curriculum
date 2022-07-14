@@ -1,0 +1,19 @@
+section{
+  width: 90%;
+  margin: 0px auto 0px auto;
+}
+html{
+  background-color: #1d94a4;
+}
+.card{
+  background-color: #2c688d;
+}
+p, .title, .subtitle, .card-header-title, .label{
+  color: white;
+}
+.navbar{
+  margin-bottom: 40px;
+}
+.card{
+  margin-bottom: 20px;
+}
